@@ -54,8 +54,8 @@ void metodatrapezow(double N)
 {double xp,xk,s,dx;
 	 int i;
 
-  cout << setprecision(3)      //  3 cyfry po przecinku
-       << fixed;               //  format stałoprzecinkowy
+  cout << setprecision(3)      //   3 cyfry po przecinku
+       << fixed;               //   format stałoprzecinkowy
 
   cout << "Podaj poczatek przedzialu calkowania\n\n"
           "xp = ";
